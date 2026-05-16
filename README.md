@@ -3,12 +3,17 @@
 # 现在有
 
 - ## [FD Fast Downloader 快速下载器（TT 快速下载器的旧版，大约为0.1.0版）](/FastDownloader/README.md)
-> 不建议使用 FastDownloader 
+> 不建议使用 FastDownloader ，建议使用 TaiLerDownloader
 
-- ## [TTHSD TT High Speed Downloader TT 快速下载器](https://github.com/sxxyrry/TTHighSpeedDownloader)
+- ## [TTHSD TT High Speed Downloader TT 快速下载器](https://github.com/sxxyrry/TTHighSpeedDownloader/)
+> 不建议使用 TTHSD ，建议使用 TaiLerDownloader
 
-- ## [JustHTML 工具箱](https://github.com/sxxyrry/JustHTML)
-  - 官网： [JustHTML 工具箱 官网](https://sxxyrry.github.io/JustHTML)
+- ## [TaiLerDownloader TLD 泰勒下载器](https://github.com/TaiLerDownloader/TaiLerDownloader/)
+
+- ## [KossJS NodeJS 风格的 JS 运行时](https://github.com/KossJS/KossJS/)
+
+- ## [JustHTML 工具箱](https://github.com/sxxyrry/JustHTML/)
+  - 官网： [JustHTML 工具箱 官网](https://justhtml.sxxyrry.qzz.io/)
  
 - ## Github Cache 服务
 > 服务未开源
