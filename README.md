@@ -2,7 +2,7 @@
 
 # 现在有
 
-- ## [FD Fast Downloader 快速下载器（TT 快速下载器的旧版，大约为0.1.0版）](/FastDownloader/README.md)
+- ## [FD Fast Downloader 快速下载器（TT 快速下载器的旧版，大约为0.1.0版）](https://github.com/TaiLerDownloader/FastDownloader/)
 > 不建议使用 FastDownloader ，建议使用 TaiLerDownloader
 
 - ## [TTHSD TT High Speed Downloader TT 快速下载器](https://github.com/sxxyrry/TTHighSpeedDownloader/)
