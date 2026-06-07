@@ -46,15 +46,11 @@
 
 - ## [CreateExample](https://github.com/X-starRelight/createexample)
 > 在当前文件中插入代码示例模板的VSCode扩展
- 
-- ## Github Cache 服务
-> 服务未开源
-  - 由于服务器故障，暂时无法使用
 
-- ## TTXR 协议
-> 服务未开源
-  - 由于服务器故障，暂时无法使用
+- ## [TTPack](https://docss.sxxyrry.qzz.io/TTP/)
+> TT23XR 工作室自己的私有打包协议（Py/JS实现调用API和其文档）
 
 ## 许可证
 
-本项目的所有工具、 API 基于 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) 开源发布。
+本项目的所有工具、 API 基于和本项目无关。
+本项目使用 CC-BY-SA-4.0 许可证开源
